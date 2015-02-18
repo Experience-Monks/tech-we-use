@@ -1,10 +1,10 @@
 Jam3 Libraries and Technologies
 ===============================
 
-[Modules](modules.md)
-[Libraries](libraries.md)
-[Project Tools](toolsProject.md)
-[Other Tools](toolsOther.md)
+* [Modules](modules.md)
+* [Libraries](libraries.md)
+* [Project Tools](toolsProject.md)
+* [Other Tools](toolsOther.md)
 
 This document is a list of modules, libraries, and tools used 
 at Jam3.
@@ -22,8 +22,3 @@ constantly growing and evolving.
 
 Contributing to this repository should be done in the dev branch. Communications
 should be done via Issues.
-
-[Modules](modules.md)
-[Libraries](libraries.md)
-[Project Tools](toolsProject.md)
-[Other Tools](toolsOther.md)
