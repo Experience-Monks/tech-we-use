@@ -53,7 +53,7 @@ format.
 
 #### xhr - https://www.npmjs.com/package/xhr
 
-#### Helps you load files. A small abstraction on top of XMLHTTPRequest.
+Helps you load files. A small abstraction on top of XMLHTTPRequest.
 
 
 ## Backend
