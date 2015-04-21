@@ -87,6 +87,10 @@ Logging for backend applications. A neat feature is restarting your application 
 
 Many many handy utility methods that help with functional programming.
 
+### async - https://www.npmjs.com/package/async
+
+Many utility functions to help with asynchronous programming. More lightweight than promises with some of the same features.
+
 #### bluebird - https://www.npmjs.com/package/bluebird
 
 A Promise library which has a lot of features.
