@@ -41,7 +41,7 @@ allows you to modify the dom by appending and removing dom elements.
 
 helps you write tap based unit tests.
 
-#### frame-loop - https://www.npmjs.com/package/frame-loop
+#### raf-loop - https://www.npmjs.com/package/frame-loop
 
 Creates a request animation frame loop that returns the milliseconds since last iteration. Very handy
 for programmatic animations. Can be used in the backend also.
