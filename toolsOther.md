@@ -45,10 +45,9 @@ Gives you code highlighting for Handlebars files.
 
 # Other tools
 
-#### Beefy - https://www.npmjs.com/package/beefy
+#### Budo - https://github.com/mattdesl/budo/commits/master
 
-If you have a javascript file you can quickly run it in the browser for testing. Supports live reloading.
-Distributed through npm.
+A dev server for rapid prototyping
 
 #### prova - https://www.npmjs.com/package/prova
 
