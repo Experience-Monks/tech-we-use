@@ -12,10 +12,9 @@ Project Tools
 
 A package manager for CommonJS packages, command line applications, and many other magical things.
 
-#### Bower - http://bower.io/
+#### Babel - https://babeljs.io/
 
-A package manager for non CommonJS packages. Most projects do not use Bower but is often used
-to bring in monolithic libraries which are not on NPM.
+Formally known as 6to5 transpiles es6 code to es5. (new version of JS to old version)
 
 #### Browserify - http://browserify.org/
 
@@ -29,6 +28,12 @@ handlebars, etc. Although we have experimented with Gulp for now most of our pro
 Grunt. The main reason being the immense amount of plugins which have been written for Grunt.
 Less effecient than Gulp because multithreading is harder to support. Plugins are setup via
 JSON style syntax which maybe less preferable to Gulp's syntax.
+
+#### Gulp - http://gulpjs.com/
+
+A project build tool which supports Streams. Is quite effecient since it can support multithreading.
+Syntax maybe preferable to Grunt's syntax.
+
 
 #### TexturePacker - https://www.codeandweb.com/texturepacker
 
@@ -45,19 +50,10 @@ there are many css preprocessors (Stylus, Sass, etc.) Less has been used on mult
 A nice HTML templating library. Supports one way databinding. Templates can be precompiled 
 for effiency or templates can be compiled through JS on the fly.
 
-#### yo - https://www.npmjs.com/package/yo
+#### nyg - https://github.com/Jam3/nyg
 
-Runs Yeoman generators. Basically creates a bunch of code from a "template/scaffold".
-
-
+Not another yeoman generator, a simplified project generator based around prompts and events.
 
 # Experimental
 
-#### Gulp - http://gulpjs.com/
 
-A project build tool which supports Streams. Is quite effecient since it can support multithreading.
-Syntax maybe preferable to Grunt's syntax.
-
-#### Babel - https://babeljs.io/
-
-Formally known as 6to5 transpiles es6 code to es5. (new version of JS to old version)
