@@ -23,28 +23,23 @@ global variables.
 
 #### dom-css - https://www.npmjs.com/package/dom-css
 
-modify the inline css of a dom element.
+Modify the inline css of a dom element.
 
 #### dom-select - https://www.npmjs.com/package/dom-select
 
-find / select dom elements from the dom tree.
+Find / select dom elements from the dom tree.
 
 #### dom-event - https://www.npmjs.com/package/dom-event
 
-add and remove events on dom elements.
+Add and remove events on dom elements.
 
 #### dom-tree - https://www.npmjs.com/package/dom-tree
 
-allows you to modify the dom by appending and removing dom elements.
+Allows you to modify the dom by appending and removing dom elements.
 
 #### tape - https://www.npmjs.com/package/tape
 
-helps you write tap based unit tests.
-
-#### raf-loop - https://www.npmjs.com/package/frame-loop
-
-Creates a request animation frame loop that returns the milliseconds since last iteration. Very handy
-for programmatic animations. Can be used in the backend also.
+Helps you write tap based unit tests.
 
 #### eases - https://www.npmjs.com/package/eases
 
@@ -80,33 +75,28 @@ Helps you to work with Mongo databases.
 Logging for backend applications. A neat feature is restarting your application when an error occurs.
 
 
-
 ## Front or Back
 
 #### lodash - https://www.npmjs.com/package/lodash
 
 Many many handy utility methods that help with functional programming.
 
-### async - https://www.npmjs.com/package/async
-
-Many utility functions to help with asynchronous programming. More lightweight than promises with some of the same features.
-
-#### bluebird - https://www.npmjs.com/package/bluebird
-
-A Promise library which has a lot of features.
-
-
-
-
 
 # Experimental
 
 ## Frontend
 
-#### vue - https://www.npmjs.com/package/vue
+### react - https://github.com/facebook/react
 
-A MVVM library that gives you a lot of the neat parts of Angular while being less restrictive.
+A declarative, efficient, and flexible JavaScript library for building user interfaces. https://facebook.github.io/react/
 
+### f1 - https://github.com/Jam3/f1
+
+A stateful ui library
+
+### react-f1 - https://github.com/Jam3/react-f1
+
+F1 UI animation library for React
 
 ## Backend
 

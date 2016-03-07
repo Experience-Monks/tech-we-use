@@ -28,14 +28,6 @@ Filters are not compatible when Canvas fallback is used.
 
 A library which helps you add Sounds to websites.
 
-#### jQuery - http://jquery.com/
-
-Although it's being used less and less from time to time it's being brought on to projects. Adds a lot
-functionality from selecting, manipulating the dom, to Ajax loading. jQuery should never be used to 
-create animations but instead gsap/TweenLite should be used.
-
-
-
 # Experimental
 
 #### CLMTrackr - https://github.com/auduno/clmtrackr
